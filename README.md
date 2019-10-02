@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Simple Todo*
 
-**Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**Simple Todo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: **Your Name Here**
+Submitted by: **Jose Gonzalez**
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
