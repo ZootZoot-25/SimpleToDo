@@ -26,13 +26,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ZootZoot-25/SimpleToDo/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The app was a bit troublesome to make, as certain bits from the lessons were cut, such as imports for certain functions.
+StackOverflow had by back though.
 
 ## License
 
